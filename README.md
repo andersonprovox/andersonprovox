@@ -1,10 +1,13 @@
-### Hi there 👋
+### Olá Visitante! 👋
 
 - 🔭 Atualmente estou me capacitando para atuar com ferramentas modernas de front-end
 - 🌱 Estou aprendendo, Java, TypeScript, Node.JS, React, JavaScript
 - 📫 How to reach me: andersongdafonseca@outlook.com
 - 😄 Pronouns: ele/dele
 
+<div align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=andersonprovox" alt="visitor badge"/>
+</div>
 <div align="center">
   <a href="https://github.com/andersonprovox">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonprovox&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
