@@ -2,8 +2,8 @@
 
 - 🔭 Atualmente estou me capacitando para atuar com ferramentas modernas de front-end
 - 🌱 Estou aprendendo, Java, TypeScript, Node.JS, React, JavaScript
-- 📫 How to reach me: andersongdafonseca@outlook.com
-- 😄 Pronouns: ele/dele
+- 📫 Contato: andersongdafonseca@outlook.com
+- 😄 Pronomes: ele/dele
 
 <div align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=andersonprovox" alt="visitor badge"/>
