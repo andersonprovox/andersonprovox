@@ -12,8 +12,10 @@ Isso quer dizer que:
 
 <div align="center">
   <a href="https://github.com/andersonprovox">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonprovox&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonprovox&layout=default&langs_count=10&theme=cobalt"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=andersonprovox&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <p>
+  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonprovox&layout=compact&langs_count=10&theme=gruvbox"/>
+  </p>
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andersonprovox&" alt="andersonprovox" /></p>
 </div>
 
