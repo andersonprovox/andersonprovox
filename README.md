@@ -4,14 +4,16 @@
 - 🌱 Estou aprendendo, Java, TypeScript, Node.JS, React, JavaScript
 - 📫 Contato: andersongdafonseca@outlook.com
 - 😄 Pronomes: ele/dele
+## Observações
+Estou organizando meus repositórios com as marcações **studycase** e **project**.
+Isso quer dizer que:
+- Studycase - são repositórios que estou usando para estudo, seja um tutorial ou projeto exemplo de algum curso, aqui será muitas vezes uma bagunça, pois como estou estudando, vou explorar bastante erros e outros modos de codar. 
+- Project - esses repositórios já são pra valer, estão aqui alguma construção que resolvi fazer tentando usar o conhecimento adquirido, nesses tenho maior cuidado para que haja algo funcional, autêntico e próximo daquilo que é exigido no mercado.
 
 <div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=andersonprovox" alt="visitor badge"/>
-</div>
-<div align="center">
   <a href="https://github.com/andersonprovox">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonprovox&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonprovox&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonprovox&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonprovox&layout=default&langs_count=10&theme=cobalt"/>
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andersonprovox&" alt="andersonprovox" /></p>
 </div>
 
