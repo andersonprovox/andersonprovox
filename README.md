@@ -1,7 +1,7 @@
 ### Olá Visitante! 👋
 Atualmente estudando sobre frontend e backend com Java e Spring.
 Atuei como desenvolvedor frontend em sistema legado de um grande banco nacional na manutenção e adequação de sistema legado, usando HTML, CSS JS, Jquery, Bootstrap, Gitlab, leitura de logs e monitoramento de sistemas.
-Tenho experiência em análisde de requisitos, estruturaçãoi de documentação de projetos, requisitos, modelagem de negócios com BPM, suporte, treinamento e implantação de sistemas, estruturação e priorização de atividades de projetos usando SCRUM. 
+Tenho experiência em análise de requisitos, estruturação de documentação de projetos, requisitos, modelagem de negócios com BPM, suporte, treinamento e implantação de sistemas, estruturação e priorização de atividades de projetos usando SCRUM. 
 
 - 📫 Contato: andersongdafonseca@outlook.com
 
